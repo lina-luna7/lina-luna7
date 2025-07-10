@@ -74,7 +74,7 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## Практика и стажировка
 
 <br>
 
@@ -85,7 +85,7 @@
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=dark)](mailto:lina.luna7@yandex.ru)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=yandex.ru&logoColor=dark)](mailto:lina.luna7@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=dark)](https://t.me/anxee6)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 

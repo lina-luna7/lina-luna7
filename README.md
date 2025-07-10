@@ -86,7 +86,7 @@
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=yandex&logoColor=white)](mailto:lina.luna7@yandex.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/anxee6)
+[![Telegram](https://img.shields.io/badge/-Telegram-2EAA44?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/anxee6)
 
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 

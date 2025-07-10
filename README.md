@@ -79,7 +79,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/lina-luna7/lina-luna7/refs/heads/main/certificate.png)
 
 <br>
 <br>
